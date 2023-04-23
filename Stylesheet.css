@@ -1,0 +1,58 @@
+#bg{
+    background-color:#362FD9;
+}
+#img{
+    width: 140px;
+    height: 140px;
+    padding-top: 5%;
+    padding-left: 40%; 
+}
+#nm{
+    font-weight: bold;
+    color: ghostwhite;
+    padding-left: 23%;
+}
+#badge{
+    width: 15px;
+    height: 15px;
+}
+#in{
+    width: 35px;
+    height: 35px;
+    padding-left: 25%;
+}
+#hnode{
+    width: 35px;
+    height: 35px;
+    padding-left: 2%;
+}
+#insta{
+    width: 35px;
+    height: 35px;
+    padding-left: 2%;
+}
+#github{
+    width: 35px;
+    height: 35px;
+    padding-left: 2%;
+}
+#snap{
+    width: 35px;
+    height: 35px;
+    padding-left: 2%;
+}
+#gm{
+    width: 35px;
+    height: 35px;
+    padding-left: 2%;
+}
+#stflow{
+    width: 35px;
+    height: 35px;
+    padding-left: 2%;
+}
+#twitter{
+    width: 35px;
+    height: 35px;
+    padding-left: 2%;
+}
